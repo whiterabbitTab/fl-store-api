@@ -1,6 +1,43 @@
 {
     "products": [
         {
+            "title": "Gift basket",
+            "price": 6579,
+            "discount": 5,
+            "description": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "picture": "adsf",
+            "article": 800,
+            "width": 20.00,
+            "height": 30.00,
+            "structure": ["Конфеты raffaelo", "Конфеты Sardin", "Ромашки белые"],
+            "colors": ["Красный", "Зеленый", "Желтый"],
+            "property": "gift"
+        },
+        {
+            "title": "Toy boy",
+            "price": 9799,
+            "discount": 0,
+            "description": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "picture": "adsf",
+            "article": 476,
+            "width": 30.00,
+            "height": 50.00,
+            "colors": ["Красный", "Зеленый", "Желтый"],
+            "property": "toy"
+        },
+        {
+            "title": "Ваза 1918",
+            "price": 12000,
+            "discount": 10,
+            "description": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "picture": "adsf",
+            "article": 213,
+            "width": 25.00,
+            "height": 50.00,
+            "colors": ["Черный"],
+            "property": "vase"
+        },
+        {
             "title": "Розы красные",
             "price": 3699,
             "discount": 0,
@@ -10,7 +47,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Красные розы"],
-            "colors": ["Красный"]
+            "colors": ["Красный"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -22,7 +60,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Пионы",
@@ -34,7 +73,8 @@
             "width": 14.00,
             "height": 34.00,
             "structure": ["Красные пионы", "Белые пионы"],
-            "colors": ["Красный", "Белый"]
+            "colors": ["Красный", "Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -46,7 +86,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -58,7 +99,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -70,7 +112,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -82,7 +125,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -94,7 +138,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -106,7 +151,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -118,7 +164,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -130,7 +177,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -142,7 +190,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -154,7 +203,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -166,7 +216,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -178,7 +229,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -190,7 +242,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -202,7 +255,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         },
         {
             "title": "Розы белые",
@@ -214,7 +268,8 @@
             "width": 17.00,
             "height": 44.00,
             "structure": ["Белые розы"],
-            "colors": ["Белый"]
+            "colors": ["Белый"],
+            "property": "flower"
         }
     ]
 }
